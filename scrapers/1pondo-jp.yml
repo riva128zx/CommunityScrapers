@@ -50,4 +50,4 @@ jsonScrapers:
                 with: "https://1pondo.tv/movies/"
               - regex: $
                 with: "/"
-# Last Updated Jan 15, 2022
+# Last Updated January 15, 2022
